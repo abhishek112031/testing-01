@@ -1,1 +1,1 @@
-Hi, this is expense tracker project:-01
+Hi, this is expense tracker project:-01,deploy through cicd pipelines
